@@ -1,15 +1,15 @@
-<h1 align="center">HEY!! I am Kartik</h1>
-<h3 align="center">Full Stack Developer, AI/ML Engineer with core knowledge of Data Structure & algorithms</h3>
+<h1 align="center">Hola!! I am Kartik</h1>
+<h3 align="center">Full Stack Developer, AI/ML Engineer with core knowledge of Data Structure & algorithms. Part time yapper</h3>
 
-- I’m currently working on **MERN Stack Project**
+- Currently working on **MERN Project**
 
-- 🌱 I’m currently learning **AI & Machine Learning**
+-  Also learning **AI & Machine Learning**
 
-- 👨‍💻 All of my projects are available at my LinkedIn [https://www.linkedin.com/in/kartik-vij30/](https://www.linkedin.com/in/kartik-vij30/)
+-  All of my projects are available at my LinkedIn [https://www.linkedin.com/in/kartik-vij30/](https://www.linkedin.com/in/kartik-vij30/)
 
-- 📫 How to reach me **kartik.vij2004@gmail.com**
+-  How to reach me **kartik.vij2004@gmail.com**
 
-- ⚡ Fun fact **I am super Funny and Intelligent (not sure)**
+-  Fun fact **I am super Funny and Smart (not sure)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
