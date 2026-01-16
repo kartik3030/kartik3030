@@ -1,5 +1,5 @@
-<h1>Hey,Kartik here</h1>
-<h3 align="center">Full Stack Developer, AI/ML Engineer with core knowledge of Data Structure & algorithms. Part time yapper</h3>
+<h1>Hey, Kartik here</h1>
+<h3>Full Stack Developer | Data Structure & algorithms | Part time yapper</h3>
 
 - Currently working on **MERN Project**
 
