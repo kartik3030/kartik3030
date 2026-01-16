@@ -48,7 +48,7 @@ I prefer writing clean, readable code and understanding systems end-to-end.
 <hr/>
 
 <ul>
-  <li>Currently working on <strong>MERN projects</strong></li>
+  <li>Currently working on <strong>MERN projects and DSA</strong></li>
   <li>Learning <strong>AI & Machine Learning fundamentals</strong></li>
   <li>Projects available on LinkedIn: 
     <a href="https://www.linkedin.com/in/kartik-vij30/" target="_blank">
