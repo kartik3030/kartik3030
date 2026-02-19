@@ -81,7 +81,7 @@ https://blogify-backend-hp6s.onrender.com/blogify
 - Profile-based content ownership logic  
 - JSON-backed persistence layer  
 - Multer file upload support  
-- React-based blog interface  
+- Server-rendered frontend using JavaScript  
 - API-driven content rendering  
 
 ---
