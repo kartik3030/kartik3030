@@ -86,16 +86,24 @@ https://blogify-backend-hp6s.onrender.com/blogify
 
 ---
 
-### Relay — Real-Time Chat Application (Ongoing | Team Project)
+Relay — Real-Time Chat Application
 
-**Repository**  
-https://github.com/RelayChatApp/Relay  
+Repository
+https://github.com/RelayChatApp/Relay
 
-- WebSocket-based real-time messaging  
-- Multer-integrated file upload support  
-- Pull Request-based contributions  
-- Branch-based feature development  
-- Remote merge synchronization  
+Live Deployment
+https://relay-1-g5dy.onrender.com
+
+- WebSocket-based real-time messaging using Socket.io
+- One-to-one user chat architecture
+- Real-time message synchronization across clients
+- Multer-integrated file and media sharing
+- JWT-based authentication for socket connection security
+- Protected chat routes with auth-state validation
+- MongoDB-based message persistence
+- Branch-based collaborative development workflow
+- Pull Request-based contribution management
+
 
 ---
 
