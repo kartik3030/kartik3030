@@ -1,136 +1,133 @@
-# Full-Stack MERN Developer (Backend-Focused)  
-REST API Architecture | MongoDB Schema Design | JWT Authentication | React Integration | C++ Problem Solving
+# Software Engineer | Backend Focused
 
-Backend-leaning full-stack developer experienced in building end-to-end MERN applications from scratch. Focused on designing RESTful API layers, modeling MongoDB collections based on application workflows, and integrating React-based client interfaces with protected backend services.
+**Distributed Web Systems | API Architecture | MongoDB Data Modeling | Authentication Systems | C++ Problem Solving**
 
----
-
-## Full Stack System Development
-
-- Engineered complete MERN stack applications from database schema to frontend interface  
-- Designed RESTful backend services using Node.js and Express  
-- Modeled MongoDB collections aligned with application-level workflows  
-- Integrated React frontend with protected backend API routes  
-- Managed authentication state across client-server boundary  
-- Implemented cookie-based JWT session handling  
-- Built UI workflows aligned with backend role-based access logic  
-- File upload integration using Multer across application modules  
-- Environment-variable based configuration for deployment  
+Software engineer experienced in designing and building production-grade web systems. Strong focus on backend architecture, API design, database modeling, and secure authentication workflows. Experienced in developing full-stack applications while prioritizing scalable backend services and system-level reliability.
 
 ---
 
-## Backend Engineering Focus
+## Software System Development
 
-- Cookie-Based JWT Authentication  
-- Role-Based Access Control (RBAC)  
-- Secure Password Hashing using bcrypt  
-- MongoDB Schema Design  
-- Centralized Error Handling Middleware  
-- Async Error Wrapper Pattern  
-- Secure Cookie Configuration  
-- CORS Policy Integration  
-- Environment-Based Configuration  
-
----
-
-## Frontend Engineering Exposure
-
-- React.js Component-Based UI Design  
-- Protected Route Implementation  
-- Conditional Rendering Based on Auth State  
-- API Consumption using Axios / Fetch  
-- Form-Driven Authentication Workflows  
-- Tailwind-Based Layout Structuring  
+* Built full-stack web applications from database schema design to client interface
+* Designed RESTful API layers using Node.js and Express
+* Structured MongoDB data models aligned with application workflows
+* Implemented secure authentication systems using JWT and HTTP-only cookies
+* Developed role-based authorization mechanisms for protected resources
+* Integrated React client applications with backend services
+* Managed authentication state across client-server boundaries
+* Implemented file and media upload pipelines using Multer
+* Built environment-driven configuration for deployment-ready systems
+* Structured modular backend architectures for maintainability
 
 ---
 
-## Flagship Projects
+## Backend Engineering
 
-### Swivvy — Student Matchmaking Platform
-
-**Repository**  
-https://github.com/kartik3030/Swivvy  
-
-**Live Deployment**  
-https://swivvy.onrender.com  
-
-- Cookie-based JWT authentication  
-- Role-Based Access Control for protected routes  
-- Secure password hashing using bcrypt  
-- MongoDB schema design for user profiles and match relationships  
-- Centralized async error-handling middleware  
-- Secure cookie session handling  
-- Multer-based media upload pipeline  
-- CORS-configured API layer  
-- React-based matchmaking interface  
-- Client-side route protection  
-- Auth-state based conditional rendering  
+* REST API Architecture
+* Cookie-Based JWT Authentication
+* Role-Based Access Control (RBAC)
+* Secure Password Hashing (bcrypt)
+* MongoDB Schema Design
+* Centralized Error Handling Middleware
+* Async Error Wrapper Pattern
+* Secure Cookie Configuration
+* CORS Policy Configuration
+* Environment-Based Configuration Management
 
 ---
 
-### Blogify — CRUD Blogging Platform  
+## Frontend Engineering
 
-**Repository**  
-https://github.com/kartik3030/Blogify  
-
-**Live Deployment**  
-https://blogify-backend-hp6s.onrender.com/blogify  
-
-- Express-based REST API layer  
-- CRUD endpoints for blog lifecycle management  
-- Profile-based content ownership logic  
-- JSON-backed persistence layer  
-- Multer file upload support  
-- Server-rendered frontend using JavaScript  
-- API-driven content rendering  
+* React Component-Based UI Development
+* Protected Route Architecture
+* Authentication-State Driven Rendering
+* API Consumption using Axios / Fetch
+* Form-Based Authentication Workflows
+* Tailwind-Based UI Layout Structuring
 
 ---
 
-Relay — Real-Time Chat Application
+# Engineering Projects
 
-Repository
+## Swivvy — Student Matchmaking Platform
+
+**Repository**
+https://github.com/kartik3030/Swivvy
+
+**Live Deployment**
+https://swivvy.onrender.com
+
+* Designed secure authentication system using cookie-based JWT sessions
+* Implemented role-based authorization for protected platform features
+* Modeled MongoDB schema for user profiles and matchmaking relationships
+* Built centralized async error-handling middleware for API reliability
+* Developed Multer-based media upload pipeline for profile assets
+* Implemented CORS-secured API layer
+* Integrated React-based matchmaking interface with protected backend APIs
+* Implemented authentication-state based UI rendering
+
+---
+
+## Blogify — Blogging Platform
+
+**Repository**
+https://github.com/kartik3030/Blogify
+
+**Live Deployment**
+https://blogify-backend-hp6s.onrender.com/blogify
+
+* Built Express-based REST API for blog lifecycle management
+* Implemented CRUD operations for blog content
+* Designed profile-based content ownership system
+* Implemented Multer-based file upload handling
+* Built JavaScript-based frontend rendering pipeline
+* Developed API-driven content delivery architecture
+
+---
+
+## Relay — Real-Time Chat System
+
+**Repository**
 https://github.com/RelayChatApp/Relay
 
-Live Deployment
+**Live Deployment**
 https://relay-1-g5dy.onrender.com
 
-- WebSocket-based real-time messaging using Socket.io
-- One-to-one user chat architecture
-- Real-time message synchronization across clients
-- Multer-integrated file and media sharing
-- JWT-based authentication for socket connection security
-- Protected chat routes with auth-state validation
-- MongoDB-based message persistence
-- Branch-based collaborative development workflow
-- Pull Request-based contribution management
-
+* Implemented real-time messaging system using WebSockets (Socket.io)
+* Built one-to-one chat architecture with real-time synchronization
+* Secured socket connections using JWT authentication
+* Implemented MongoDB-based message persistence
+* Integrated Multer-based media sharing within chat
+* Designed protected chat routes with authentication validation
+* Managed collaborative development using branch-based workflows and pull requests
 
 ---
 
-## Deployment Stack
+## Deployment Infrastructure
 
-- Render Cloud Hosting  
-- GitHub-Based Deployment Workflow  
-- Environment Variable Configuration  
+* Render Cloud Deployment
+* GitHub-Based CI Workflow
+* Environment Variable Based Configuration
 
 ---
 
 ## Problem Solving (C++)
 
-LeetCode Profile:  
-https://leetcode.com/u/Kartik_vij/  
+**LeetCode Profile**
+https://leetcode.com/u/Kartik_vij/
 
-Focus Areas:
-- Sliding Window Techniques  
-- Recursion  
-- Array-Based Optimization Problems  
+**Focus Areas**
+
+* Linear Data Structures
+* Pattern Recognition
+* Optimising the solution
 
 ---
 
 ## Contact
 
-LinkedIn:  
+**LinkedIn**
 https://www.linkedin.com/in/kartik-vij30/
 
-Email:  
-kartik.vij2004@gmail.com
+**Email**
+[kartik.vij2004@gmail.com](mailto:kartik.vij2004@gmail.com)
