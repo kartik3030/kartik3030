@@ -1,16 +1,23 @@
 # Software Engineer | MERN Stack | Real-Time Systems
 
-**Distributed Web Systems | API Architecture | MongoDB Data Modeling**
+**Distributed Web Systems | API Architecture | Database Modeling**
 
-Software engineer focused on designing and building full-stack web systems with strong backend architecture. Experienced in developing scalable API layers, modeling application data structures, and implementing secure authentication workflows. Skilled in building end-to-end MERN applications while emphasizing backend reliability, modular architecture, and real-time system behavior.
+Software engineer focused on designing and building full-stack web systems with strong backend architecture. Experienced in developing scalable API layers, modeling application data structures using MongoDB and SQL databases, and implementing secure authentication workflows. Skilled in building end-to-end MERN applications while emphasizing backend reliability, modular architecture, and real-time system behavior.
 
 ---
 
 ## Technology Stack
 
-Node.js | Express.js | React | MongoDB | Socket.io  
-REST API Architecture | JWT Authentication  
-Multer File Handling | Render Cloud Deployment
+Node.js  
+Express.js  
+React  
+MongoDB  
+SQL  
+Socket.io  
+REST API Architecture  
+JWT Authentication  
+Multer File Handling  
+Render Cloud Deployment  
 
 ---
 
@@ -77,6 +84,7 @@ https://blogify-backend-hp6s.onrender.com/blogify
 * Role-Based Access Control (RBAC)
 * Secure Password Hashing using bcrypt
 * MongoDB Schema Design
+* SQL Query Design
 * Centralized Error Handling Middleware
 * Async Error Wrapper Pattern
 * Secure Cookie Configuration
