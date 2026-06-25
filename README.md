@@ -1,3 +1,4 @@
+<div align="center">
 ```
 ██╗  ██╗ █████╗ ██████╗ ████████╗██╗██╗  ██╗    ██╗   ██╗██╗     ██╗
 ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝    ██║   ██║██║     ██║
@@ -6,7 +7,7 @@
 ██║  ██╗██║  ██║██║  ██║   ██║   ██║██║  ██╗     ╚████╔╝ ██║╚█████╔╝
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝      ╚═══╝  ╚═╝ ╚════╝
 ```
-
+</div>
 <div align="center">
 
 **Full Stack Engineer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; AI/LLM**
@@ -14,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartik.vij2004@gmail.com)
 [![Swivvy](https://img.shields.io/badge/Swivvy-Live-1D9E75?style=flat-square)](https://swivvy.onrender.com)
-[![Analyzer](https://img.shields.io/badge/GitHub_Analyzer-Live-378ADD?style=flat-square)](https://github-analyzer.onrender.com)
+[![Analyzer](https://img.shields.io/badge/GitHub_Analyzer-Live-378ADD?style=flat-square)](https://github-analyzer-je51.onrender.com/)
 
 </div>
 
@@ -50,31 +51,6 @@ const kartik = {
 
 **AI & LLM**
 `OpenAI API` `Groq API` `Prompt Engineering` `Generative AI`
-
----
-
-## 🚀 Projects
-
-### [`swivvy`](https://swivvy.onrender.com) — Student Networking Platform
-> Tinder-style matching for students with real-time one-to-one messaging
-
-`React` `TypeScript` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Docker`
-
-- JWT auth with HTTP-only cookies, refresh token rotation & route guards
-- Migrated full codebase JS → TypeScript with MVC architecture
-- OpenAI-powered bio generation, rate limiting, bcrypt, CORS protection
-- Containerized with Docker and deployed on Render
-
----
-
-### [`github-analyzer`](https://github-analyzer.onrender.com) — AI GitHub Profile Insights
-> Fetches any GitHub profile and generates plain-English developer insights using an LLM
-
-`React` `Node.js` `GitHub REST API` `Groq API`
-
-- Preprocessing pipeline that cleans raw API data before LLM inference
-- Batched API calls to stay within 60 req/hr unauthenticated limit — avg response under 2s
-- Surfaces strengths, weaknesses, top repos & contribution patterns — not just raw numbers
 
 ---
 
