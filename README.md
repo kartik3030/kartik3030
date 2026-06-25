@@ -14,9 +14,13 @@ I build scalable, secure, and production-ready web applications from idea to dep
 ### Tech Stack
 
 **Frontend:** React | TypeScript | Tailwind CSS
+
 **Backend:** Node.js | Express.js | Socket.IO
+
 **Database:** MongoDB | MySQL
+
 **AI:** OpenAI | Prompt Engineering
+
 **DevOps:** Docker | GitHub Actions | Render
 
 ### Currently Learning
