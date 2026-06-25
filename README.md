@@ -1,5 +1,3 @@
-# Hi, I'm Kartik Vij 
-
 ### Full Stack Developer | MERN | TypeScript | AI Integration
 
 I build scalable, secure, and production-ready web applications from idea to deployment. My focus is on backend engineering, real-time systems, AI-powered features, and clean software architecture.
@@ -31,4 +29,3 @@ AWS | Redis | System Design
 
 ## Connect
 - 📧 **Email:** kartik.vij2004@gmail.com
-```
