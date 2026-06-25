@@ -1,20 +1,6 @@
 <!-- Header -->
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   ██╗  ██╗ █████╗ ██████╗ ████████╗██╗██╗  ██╗          ║
-║   ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝          ║
-║   █████╔╝ ███████║██████╔╝   ██║   ██║█████╔╝           ║
-║   ██╔═██╗ ██╔══██║██╔══██╗   ██║   ██║██╔═██╗           ║
-║   ██║  ██╗██║  ██║██║  ██║   ██║   ██║██║  ██╗          ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝          ║
-║                         V I J                             ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-### `< Full Stack Developer />` · `{ AI/LLM Integrations }` · `[ Cloud & DevOps ]`
+### `< Full Stack Developer />` | `{ AI/LLM Integrations }` | `[ Cloud & DevOps ]`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartik.vij2004@gmail.com)
