@@ -1,5 +1,5 @@
 ```markdown
-# Hi, I'm Kartik Vij 👋
+# Hi, I'm Kartik Vij 
 
 ### Full Stack Developer | MERN | TypeScript | AI Integration
 
