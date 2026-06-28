@@ -26,7 +26,7 @@ DevOps: Docker • GitHub Actions • Render
 
 ## Currently Learning
 
-AWS • Redis • CI/CD • System Design
+AWS • Redis • System Design
 
 ## Connect
 
